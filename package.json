@@ -18,7 +18,7 @@
     "express-list-endpoints": "^4.0.1",
     "moment": "^2.24.0",
     "mongodb": "^3.3.2",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.13.15",
     "nodemon": "^1.19.4",
     "swagger-ui-express": "^2.0.13"
   },
